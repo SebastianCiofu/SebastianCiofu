@@ -1,6 +1,10 @@
-# 👋 Hey there
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <div align="justify">
+    
+# 👋 Hey there
+<div>
     My name is Sebastian and I love to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Front-end Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
@@ -84,3 +88,4 @@
     </td>
   </tr>
 </table>
+    
